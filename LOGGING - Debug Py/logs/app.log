@@ -1,0 +1,7 @@
+2025-11-27 11:32:15-root-DEBUG-This is a debug message with custom format
+2025-11-27 11:32:15-root-INFO-This is an info message
+2025-11-27 11:32:15-root-WARNING-This is a warning message
+2025-11-27 11:32:15-root-ERROR-This is an error message
+2025-11-27 11:32:15-root-CRITICAL-This is a critical message
+2025-11-27 11:32:15-root-DEBUG-The addition function is Called
+2025-11-27 11:32:15-root-DEBUG-Adding 5 and 7

@@ -1,0 +1,28 @@
+2025-11-27 11:07:18-root-DEBUG-This is a debug message with custom format
+2025-11-27 11:07:18-root-INFO-This is an info message
+2025-11-27 11:07:18-root-WARNING-This is a warning message
+2025-11-27 11:07:18-root-ERROR-This is an error message
+2025-11-27 11:07:18-root-CRITICAL-This is a critical message
+2025-11-27 11:33:11-root-DEBUG-This is a debug message with custom format
+2025-11-27 11:33:11-root-INFO-This is an info message
+2025-11-27 11:33:11-root-WARNING-This is a warning message
+2025-11-27 11:33:11-root-ERROR-This is an error message
+2025-11-27 11:33:11-root-CRITICAL-This is a critical message
+2025-11-27 11:35:45-root-DEBUG-This is a debug message with custom format
+2025-11-27 11:35:45-root-INFO-This is an info message
+2025-11-27 11:35:45-root-WARNING-This is a warning message
+2025-11-27 11:35:45-root-ERROR-This is an error message
+2025-11-27 11:35:45-root-CRITICAL-This is a critical message
+2025-11-27 11:39:53-module1-DEBUG-Debug message from module1
+2025-11-27 11:39:53-module1-INFO-Info message from module1
+2025-11-27 11:39:53-module2-WARNING-Warning message from module2
+2025-11-27 11:39:53-module2-ERROR-Error message from module2
+2025-11-27 11:41:13-root-DEBUG-This is a debug message with custom format
+2025-11-27 11:41:13-root-INFO-This is an info message
+2025-11-27 11:41:13-root-WARNING-This is a warning message
+2025-11-27 11:41:13-root-ERROR-This is an error message
+2025-11-27 11:41:13-root-CRITICAL-This is a critical message
+2025-11-27 11:41:13-module1-DEBUG-Debug message from module1
+2025-11-27 11:41:13-module1-INFO-Info message from module1
+2025-11-27 11:41:13-module2-WARNING-Warning message from module2
+2025-11-27 11:41:13-module2-ERROR-Error message from module2
